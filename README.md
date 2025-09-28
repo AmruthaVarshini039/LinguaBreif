@@ -46,7 +46,7 @@ Copy code
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repo
-```bash
+
 git clone https://github.com/YOUR-USERNAME/linguabrief.git
 cd linguabrief
 2️⃣ Backend Setup (Flask)
@@ -105,7 +105,8 @@ Implement full translation API.
 
 Add user profile & history of summaries.
 
-npm run start-all: Runs both the backend and frontend concurrently.
+npm run start-all: Runs both the backend and frontend concurrently
+--------------------------------------------------
 <img width="960" height="884" alt="image" src="https://github.com/user-attachments/assets/8bcf699b-579d-4cb7-8b7f-ce1228460e65" />
 <img width="952" height="872" alt="image" src="https://github.com/user-attachments/assets/e9bc72ae-ae8f-464a-a82a-0f542cab824e" />
 <img width="940" height="894" alt="image" src="https://github.com/user-attachments/assets/f14676af-f9df-45fe-9394-115206b18d57" />
